@@ -47,6 +47,6 @@
 </ul>
 
 <h2>Redes Sociales</h2>
-<a title="LinkedIn" href="https://www.linkedin.com/in/alfonsoalvar"><img src="https://www.alfonsoalvar.com/imagenes/linkedin.png" alt="LinkedIn" style="height: 4em;"></a>&nbsp;&nbsp;
-<a title="Telegram" href="https://t.me/alfonsoalvar"><img src="https://www.alfonsoalvar.com/imagenes/telegram.png" alt="Telegram" style="height: 4em;"></a>&nbsp;&nbsp;
-<a rel="me" title="Mastodon" href="https://mastodon.social/@AlfonsoAlvar"><img src="https://www.alfonsoalvar.com/imagenes/mastodon.png" alt="Mastodon" style="height: 4em;"></a>
+<a title="LinkedIn" href="https://www.linkedin.com/in/alfonsoalvar"><img src="https://www.alfonsoalvar.com/imagenes/linkedin.png" alt="LinkedIn" style="height: 3em;"></a>&nbsp;&nbsp;
+<a title="Telegram" href="https://t.me/alfonsoalvar"><img src="https://www.alfonsoalvar.com/imagenes/telegram.png" alt="Telegram" style="height: 3em;"></a>&nbsp;&nbsp;
+<a rel="me" title="Mastodon" href="https://mastodon.social/@AlfonsoAlvar"><img src="https://www.alfonsoalvar.com/imagenes/mastodon.png" alt="Mastodon" style="height: 3em;"></a>
