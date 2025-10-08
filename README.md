@@ -32,6 +32,7 @@
     </p>
     <ul>
       <li><a href="https://www.alfonsoalvar.com/dnsquery">https://www.alfonsoalvar.com/dnsquery</a></li>
+      <li><a href='https://play.google.com/store/apps/details?id=com.alfonsoalvar.dnsquery'>DNS Query disponible en Google Play</a></li>
     </ul>
   </li>
   <li>
