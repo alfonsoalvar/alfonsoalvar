@@ -37,12 +37,11 @@
   </li>
   <li>
     <p>
-      <strong>Metabuscador de páginas web</strong><br/>
-      Sistema para localizar información en diferentes motores de búsqueda
+      <strong>Metabuscador de páginas web con IA</strong><br/>
+      Sistema para localizar información en diferentes motores de búsqueda con IA
     </p>
     <ul>
       <li><a href="https://www.alfonsoalvar.com/buscador">https://www.alfonsoalvar.com/buscador</a></li>
-      <li><a href="https://telegram.me/metabuscadorbot">Metabuscador en Telegram @metabuscadorbot</a></li>
     </ul>
   </li>
 </ul>
