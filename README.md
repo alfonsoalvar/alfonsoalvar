@@ -4,6 +4,15 @@
 <ul>
   <li>
     <p>
+      <strong>ChefBot</strong><br/>
+      Un Asistente de Recetas que he construido como ejercicio de Ingeniería de IA.<br/>El corazón del proyecto es un sistema RAG (Retrieval-Augmented Generation) implementado en Python, lo que le permite consultar y analizar su propia base de conocimientos para responder con precisión y evitar alucinaciones (ej. identificar la receta con menor contenido graso).
+    </p>
+    <ul>
+      <li><a href="https://www.alfonsoalvar.com/chefbot">https://www.alfonsoalvar.com/chefbot</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>
       <strong>Telealarma</strong><br/>
       Servicio de teleasistencia familiar gratuito pensado para facilitar la comunicación y proporcionar sensación de seguridad
     </p>
