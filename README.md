@@ -4,6 +4,16 @@
 <ul>
   <li>
     <p>
+      <strong>Ahorcado</strong><br/>
+      Evolución de un proyecto original de Valeriano Moreno, donde realicé una reingeniería completa para migrar la interfaz de XML tradicional a Jetpack Compose.
+    </p>
+    <ul>
+      <li><a href="https://play.google.com/store/apps/details?id=com.alfonsoalvar.ahorcado">Disponible en Google Play</a></li>
+      <li><a href="https://github.com/alfonsoalvar/AhorcadoApp25">Ver en GitHub</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>
       <strong>ChefBot</strong><br/>
       Un Asistente de Recetas que he construido como ejercicio de Ingeniería de IA.<br/>El corazón del proyecto es un sistema RAG (Retrieval-Augmented Generation) implementado en Python, lo que le permite consultar y analizar su propia base de conocimientos para responder con precisión y evitar alucinaciones (ej. identificar la receta con menor contenido graso).
     </p>
