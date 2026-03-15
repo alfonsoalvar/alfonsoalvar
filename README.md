@@ -4,12 +4,11 @@
 <ul>
   <li>
     <p>
-      <strong>Ahorcado</strong><br/>
-      Evolución de un proyecto original de Valeriano Moreno, donde realicé una reingeniería completa para migrar la interfaz de XML tradicional a Jetpack Compose.
+      <strong>Letras al Rescate</strong><br/>
+      Letras al Rescate es un juego del ahorcado totalmente reinventado y desarrollado íntegramente desde cero, donde he transformado la mecánica clásica de adivinar palabras en una experiencia de supervivencia visual y dinámica.
     </p>
     <ul>
       <li><a href="https://play.google.com/store/apps/details?id=com.alfonsoalvar.ahorcado">Disponible en Google Play</a></li>
-      <li><a href="https://github.com/alfonsoalvar/AhorcadoApp25">Ver en GitHub</a></li>
     </ul>
   </li>
   <li>
@@ -61,6 +60,15 @@
     </p>
     <ul>
       <li><a href="https://www.alfonsoalvar.com/buscador">https://www.alfonsoalvar.com/buscador</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>
+      <strong>Ahorcado</strong><br/>
+      Evolución de un proyecto donde realicé una reingeniería completa para migrar la interfaz de XML tradicional a Jetpack Compose.
+    </p>
+    <ul>
+      <li><a href="https://github.com/alfonsoalvar/AhorcadoApp25">Ver en GitHub</a></li>
     </ul>
   </li>
 </ul>
