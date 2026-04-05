@@ -1,4 +1,4 @@
-<h1>Desarrollador web / android y administrador de sistemas</h1>
+<h1>Full-Stack Developer | Android Certified Application Engineer | Systems Administrator</h1>
 
 <h2>Proyectos</h2>
 <ul>
