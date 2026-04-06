@@ -1,79 +1,60 @@
-<h1>Full-Stack Developer | Android Certified Application Engineer | Systems Administrator</h1>
+[![Website](https://img.shields.io/badge/Website-alfonsoalvar.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://www.alfonsoalvar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alfonso_Alvar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfonsoalvar)
+[![Telegram](https://img.shields.io/badge/Telegram-Connect-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/alfonsoalvar)
 
-<h2>Proyectos</h2>
-<ul>
-  <li>
-    <p>
-      <strong>Letras al Rescate</strong><br/>
-      Letras al Rescate es un juego del ahorcado totalmente reinventado y desarrollado íntegramente desde cero, donde he transformado la mecánica clásica de adivinar palabras en una experiencia de supervivencia visual y dinámica.
-    </p>
-    <ul>
-      <li><a href="https://play.google.com/store/apps/details?id=com.alfonsoalvar.ahorcado">Disponible en Google Play</a></li>
-    </ul>
-  </li>
-  <li>
-    <p>
-      <strong>ChefBot</strong><br/>
-      Un Asistente de Recetas que he construido como ejercicio de Ingeniería de IA.<br/>El corazón del proyecto es un sistema RAG (Retrieval-Augmented Generation) implementado en Python, lo que le permite consultar y analizar su propia base de conocimientos para responder con precisión y evitar alucinaciones (ej. identificar la receta con menor contenido graso).
-    </p>
-    <ul>
-      <li><a href="https://www.alfonsoalvar.com/chefbot">https://www.alfonsoalvar.com/chefbot</a></li>
-    </ul>
-  </li>
-  <li>
-    <p>
-      <strong>Telealarma</strong><br/>
-      Servicio de teleasistencia familiar gratuito pensado para facilitar la comunicación y proporcionar sensación de seguridad
-    </p>
-    <ul>
-      <li>
-        <a href="https://play.google.com/store/apps/details?id=com.alfonsoalvar.telealarma&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">Telealarma disponible en Google Play</a>
-      </li>
-      <li>
-        <a href="https://www.lavozdegalicia.es/noticia/yes/2021/11/13/15-anos-leo-e-book-suelto/0003_202111SY13P2991.htm?utm_source=whatsapp&amp;utm_medium=referral&amp;utm_campaign=share&amp;utm_content=0003_202111SY13P2991">Mención en La Voz de Galicia</a>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <p>
-      <strong>Pictodime</strong><br/>
-      Transforma tus pensamientos en pictogramas
-    </p>
-    <ul>
-      <li><a href="https://www.alfonsoalvar.com/pictodime">https://www.alfonsoalvar.com/pictodime</a></li>
-    </ul>
-  </li>
-  <li>
-    <p>
-      <strong>DNS Query</strong><br/>
-      Herramienta para la realización de consultas DNS
-    </p>
-    <ul>
-      <li><a href="https://www.alfonsoalvar.com/dnsquery">https://www.alfonsoalvar.com/dnsquery</a></li>
-      <li><a href='https://play.google.com/store/apps/details?id=com.alfonsoalvar.dnsquery'>DNS Query disponible en Google Play</a></li>
-    </ul>
-  </li>
-  <li>
-    <p>
-      <strong>Metabuscador de páginas web con IA</strong><br/>
-      Sistema para localizar información en diferentes motores de búsqueda con IA
-    </p>
-    <ul>
-      <li><a href="https://www.alfonsoalvar.com/buscador">https://www.alfonsoalvar.com/buscador</a></li>
-    </ul>
-  </li>
-  <li>
-    <p>
-      <strong>Ahorcado</strong><br/>
-      Evolución de un proyecto donde realicé una reingeniería completa para migrar la interfaz de XML tradicional a Jetpack Compose.
-    </p>
-    <ul>
-      <li><a href="https://github.com/alfonsoalvar/AhorcadoApp25">Ver en GitHub</a></li>
-    </ul>
-  </li>
-</ul>
+# Full-Stack Developer | Android Certified Application Engineer | Systems Administrator
 
-<h2>Redes Sociales</h2>
-<a title="LinkedIn" href="https://www.linkedin.com/in/alfonsoalvar"><img src="https://www.alfonsoalvar.com/imagenes/linkedin.png" alt="LinkedIn" style="height: 3em;"></a>&nbsp;&nbsp;
-<a title="Telegram" href="https://t.me/alfonsoalvar"><img src="https://www.alfonsoalvar.com/imagenes/telegram.png" alt="Telegram" style="height: 3em;"></a>&nbsp;&nbsp;
-<a rel="me" title="Mastodon" href="https://mastodon.social/@AlfonsoAlvar"><img src="https://www.alfonsoalvar.com/imagenes/mastodon.png" alt="Mastodon" style="height: 3em;"></a>
+## Proyectos
+
+### Letras al Rescate
+Letras al Rescate es un juego del ahorcado totalmente reinventado y desarrollado íntegramente desde cero, donde he transformado la mecánica clásica de adivinar palabras en una experiencia de supervivencia visual y dinámica.
+
+[**Disponible en Google Play**](https://play.google.com/store/apps/details?id=com.alfonsoalvar.ahorcado)
+
+---
+
+### ChefBot
+Un Asistente de Recetas construido como ejercicio de Ingeniería de IA. El corazón del proyecto es un sistema **RAG (Retrieval-Augmented Generation)** implementado en Python, lo que le permite consultar y analizar su propia base de conocimientos para responder con precisión y evitar alucinaciones.
+
+[**Probar ChefBot**](https://www.alfonsoalvar.com/chefbot)
+
+---
+
+### Telealarma
+Servicio de teleasistencia familiar gratuito pensado para facilitar la comunicación y proporcionar sensación de seguridad.
+
+[**Disponible en Google Play**](https://play.google.com/store/apps/details?id=com.alfonsoalvar.telealarma)
+
+[**Mención en La Voz de Galicia**](https://www.lavozdegalicia.es/noticia/yes/2021/11/13/15-anos-leo-e-book-suelto/0003_202111SY13P2991.htm)
+
+---
+
+### Pictodime
+Transforma tus pensamientos en pictogramas. Una herramienta enfocada en la accesibilidad y la comunicación visual.
+
+[**Probar Pictodime**](https://www.alfonsoalvar.com/pictodime)
+
+---
+
+### DNS Query
+Herramienta técnica para la realización de consultas DNS de forma rápida y sencilla.
+
+[**Probar DNS Query**](https://www.alfonsoalvar.com/dnsquery)
+
+[**Disponible en Google Play**](https://play.google.com/store/apps/details?id=com.alfonsoalvar.dnsquery)
+
+---
+
+### Metabuscador con IA
+Sistema para localizar información en diferentes motores de búsqueda utilizando Inteligencia Artificial para optimizar los resultados.
+
+[**Probar Metabuscador**](https://www.alfonsoalvar.com/buscador)
+
+---
+
+### Ahorcado (Jetpack Compose)
+Evolución de un proyecto donde realicé una reingeniería completa para migrar la interfaz de XML tradicional a **Jetpack Compose**, aplicando arquitecturas modernas en Android.
+
+[**Ver código en GitHub**](https://github.com/alfonsoalvar/AhorcadoApp25)
+
+---
