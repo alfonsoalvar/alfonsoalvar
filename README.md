@@ -20,6 +20,13 @@ Un Asistente de Recetas construido como ejercicio de Ingeniería de IA. El coraz
 
 ---
 
+### Docker Lamp
+Infraestructura para entornos LAMP. He encapsulado el despliegue de Apache, MariaDB y PHP con Traefik para estandarizar entornos de desarrollo y producción, eliminando configuraciones manuales. El objetivo es proporcionar un entorno sencillo de desplegar en cualquier servidor.
+
+[***Ver código en GitHub***](https://github.com/alfonsoalvar/dockerLamp)
+
+---
+
 ### Telealarma
 Servicio de teleasistencia familiar gratuito pensado para facilitar la comunicación y proporcionar sensación de seguridad.
 
