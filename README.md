@@ -6,6 +6,11 @@
 
 ## Proyectos
 
+### Kanban
+Para optimizar mi productividad y mejorar mi organización de tareas en el día a día, he desarrollado en mi tiempo libre mi propio kanban con las funcionalidades que necesito y en mejora continua con Angular, Slim y MariaDB. Es multiusuario, permite que cada usuario pueda tener múltiples tableros, personalizar las columnas y asociar partes a las tareas.
+
+[**Probar Kanban**](https://kanban.alfonsoalvar.com)
+
 ### dockerAngular
 Un entorno de desarrollo automatizado y contenedorizado para aplicaciones Angular usando Docker Compose. Este proyecto está diseñado para facilitar la creación, ejecución y desarrollo de proyectos Angular con soporte integrado para Traefik (proxy inverso) y recarga en caliente (hot-reload).
 
