@@ -6,6 +6,16 @@
 
 ## Proyectos
 
+### JSSpeccy
+
+Fork y extensión del emulador JSSpeccy 3 (originalmente creado por Matt Westcott). Este proyecto transforma un núcleo de emulación técnica precisa en WebAssembly en una aplicación web accesible, orientada a la experiencia de usuario (UX) en dispositivos móviles y adaptada al mercado hispanohablante.
+
+El desarrollo abarca desde el diseño de un teclado virtual táctil avanzado hasta la implementación del mapa de teclado del ZX Spectrum +2 Español, filtros de vídeo retro en tiempo real y herramientas para exportar programas directamente desde la memoria RAM del emulador.
+
+[**Probar JSSpeccy**](https://www.alfonsoalvar.com/jsspeccy)
+
+[**Ver código en GitHub**](https://github.com/alfonsoalvar/jsspeccy3)
+
 ### Kanban
 Para optimizar mi productividad y mejorar mi organización de tareas en el día a día, he desarrollado en mi tiempo libre mi propio kanban con las funcionalidades que necesito y en mejora continua con Angular, Slim y MariaDB. Es multiusuario, permite que cada usuario pueda tener múltiples tableros, personalizar las columnas y asociar partes a las tareas.
 
