@@ -8,9 +8,7 @@
 
 ### JSSpeccy
 
-Fork y extensión del emulador JSSpeccy 3 (originalmente creado por Matt Westcott). Este proyecto transforma un núcleo de emulación técnica precisa en WebAssembly en una aplicación web accesible, orientada a la experiencia de usuario (UX) en dispositivos móviles y adaptada al mercado hispanohablante.
-
-El desarrollo abarca desde el diseño de un teclado virtual táctil avanzado hasta la implementación del mapa de teclado del ZX Spectrum +2 Español, filtros de vídeo retro en tiempo real y herramientas para exportar programas directamente desde la memoria RAM del emulador.
+En mi tiempo libre he estado trabajando en un fork y extensión de JSSpeccy 3 (el emulador original de Matt Westcott). Mi objetivo era coger su núcleo de emulación en WebAssembly y adaptarlo para que fuera realmente cómodo de usar en móviles y en español. Durante el desarrollo he diseñado un teclado virtual táctil para móviles, la serigrafía y mapa del ZX Spectrum +2 Español, filtro CRT en tiempo real y exportación de programas en formato Z80 y TZX.
 
 [**Probar JSSpeccy**](https://www.alfonsoalvar.com/jsspeccy)
 
