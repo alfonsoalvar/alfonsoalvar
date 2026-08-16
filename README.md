@@ -6,6 +6,14 @@
 
 ## Proyectos
 
+### v86web
+
+He recreado la experiencia nostálgica de utilizar un ordenador PC retro de los años 90 directamente desde el navegador. El corazón del proyecto integra el motor de emulación x86 en WebAssembly (v86) dentro de una arquitectura desarrollada con Angular.
+
+Para lograr una inmersión completa, he diseñado un entorno con monitor CRT, torre de PC con indicadores LED de actividad en tiempo real, disquetera y CD-ROM interactivos y almacenamiento persistente en IndexedDB.
+
+[**Probar v86web**](https://www.alfonsoalvar.com/v86web)
+
 ### JSSpeccy
 
 En mi tiempo libre he estado trabajando en un fork y extensión de JSSpeccy 3 (el emulador original de Matt Westcott). Mi objetivo era coger su núcleo de emulación en WebAssembly y adaptarlo para que fuera realmente cómodo de usar en móviles y en español. Durante el desarrollo he diseñado un teclado virtual táctil para móviles, la serigrafía y mapa del ZX Spectrum +2 Español, filtro CRT en tiempo real y exportación de programas en formato Z80 y TZX.
@@ -29,14 +37,18 @@ Un entorno de desarrollo automatizado y contenedorizado para aplicaciones Angula
 ---
 
 ### Letras al Rescate
-Letras al Rescate es un juego del ahorcado totalmente reinventado y desarrollado íntegramente desde cero, donde he transformado la mecánica clásica de adivinar palabras en una experiencia de supervivencia visual y dinámica.
+Letras al Rescate es un juego del ahorcado totalmente reinventado, donde he transformado la mecánica clásica de adivinar palabras en una experiencia de supervivencia visual y dinámica.
+
+Desarrollada íntegramente desde cero con Jetpack Compose y arquitectura MVVM, la aplicación sustituye el concepto tradicional por retos de salvamento en escenarios como el puente colgante o la balsa de náufrago.
 
 [**Disponible en Google Play**](https://play.google.com/store/apps/details?id=com.alfonsoalvar.ahorcado)
 
 ---
 
 ### ChefBot
-Un Asistente de Recetas construido como ejercicio de Ingeniería de IA. El corazón del proyecto es un sistema **RAG (Retrieval-Augmented Generation)** implementado en Python, lo que le permite consultar y analizar su propia base de conocimientos para responder con precisión y evitar alucinaciones.
+Un Asistente de Recetas que he construido como ejercicio de Ingeniería de IA.
+
+El corazón del proyecto es un sistema RAG (Retrieval-Augmented Generation) implementado en Python, lo que le permite consultar y analizar su propia base de conocimientos para responder con precisión y evitar alucinaciones (ej. identificar la receta con menor contenido graso).
 
 [**Probar ChefBot**](https://www.alfonsoalvar.com/chefbot)
 
@@ -82,7 +94,8 @@ Sistema para localizar información en diferentes motores de búsqueda utilizand
 ---
 
 ### Ahorcado (Jetpack Compose)
-Evolución de un proyecto donde realicé una reingeniería completa para migrar la interfaz de XML tradicional a **Jetpack Compose**, aplicando arquitecturas modernas en Android.
+Evolución de un proyecto donde realicé una reingeniería completa para migrar la interfaz de XML tradicional a **Jetpack Compose**.
+El código fue transformado profundamente para adoptar un paradigma declarativo y moderno, optimizando la lógica interna.
 
 [**Ver código en GitHub**](https://github.com/alfonsoalvar/AhorcadoApp25)
 
