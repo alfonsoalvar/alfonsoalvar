@@ -3,7 +3,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://www.alfonsoalvar.com/whatsapp)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://www.alfonsoalvar.com/telegram)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://www.alfonsoalvar.com/mastodon)
-[![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)](https://www.alfonsoalvar.com/teams)
+[![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTQgNGgxNnYxNkg0VjR6bTIgM3YyaDR2OGgyVjloNFY3SDZ6Ii8+PC9zdmc+)](https://www.alfonsoalvar.com/teams)
 
 ## Full-Stack Developer | Android Certified Application Engineer | Systems Administrator
 
